@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Büşra!
 
-🔍 I’m working on **Generative AI** and **Python** with a focus on data science and AI applications. Continuously developing my skills in **Machine Learning** and **Deep Learning**.
+👩‍💻 Aspiring AI Developer | Python & Data Science Enthusiast  
+🚀 Building machine learning & generative AI projects  
+
 ## 🌐 Contact with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/busradeveci) 
 

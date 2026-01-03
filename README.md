@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Busra!
+# 👋 Hi, I'm Büşra!
 
 <span style="display: inline-block; vertical-align: middle; margin-left: 15px; font-family: Fira Code, monospace; line-height: 1.5;">
     • AI & Machine Learning Developer<br/>
@@ -6,7 +6,6 @@
     • Designing scalable intelligent solutions<br/>
     • Python | R | ML | Quantum Computing
 </span>
-
 
 # 💻 Tech Stack
 
@@ -41,7 +40,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=12&pause=1000&color=1C0F45&width=435&lines=%E2%80%9CThe+best+way+to+predict+the+future+is+to+invent+it.%E2%80%9D+%E2%80%93+Alan+Kay" alt="Typing SVG" />
   </a>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=busradeveci&show_icons=true&theme=shadow_red)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=busradeveci&show_icons=true&hide_border=true&theme=radical&bg_color=ffffff00" alt="GitHub Stats" />
+</p>
+
 

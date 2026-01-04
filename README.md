@@ -1,11 +1,8 @@
 ## 👋 Hi, I'm Büşra!
 
-<span style="font-family: Fira Code, monospace; line-height: 1.6;">
-• AI & Machine Learning Developer<br/>
-• Data Science with Python & R<br/>
-• Focused on real-world ML systems<br/>
-• Building scalable, data-driven solutions
-</span>
+AI & Machine Learning Developer with a strong interest in data-driven systems and real-world applications.
+
+I enjoy working at the intersection of machine learning, analytics, and software engineering — building solutions that are not only intelligent, but also practical and maintainable.
 
 
 ## 🌐 Connect with Me
@@ -63,11 +60,8 @@
 </div>
 
 
-  
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=busradeveci&layout=compact&bg_color=00000000&title_color=8B2323&text_color=2F2F2F&hide_border=true" />
-
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=busradeveci&show_icons=true&bg_color=00000000&title_color=8B2323&icon_color=8B2323&text_color=2F2F2F&hide_border=true" />
 </p>

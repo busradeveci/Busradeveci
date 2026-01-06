@@ -16,7 +16,7 @@ I enjoy working at the intersection of machine learning, analytics, and software
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 
-  <a href="https://medium.com/@devecibusra136" target="_blank">
+  <a href="https://medium.com/@busradeveci" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
